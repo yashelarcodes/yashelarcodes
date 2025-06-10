@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash
 - 👀 I have just stated with FrontEnd and C language and also did some data structure in c
 - 🌱 I’m currently learning Web Devlopment
-- 📫 How to reach me Insta : @_yashelar
+- 📫 Insta : @_yashelar
 - 😄 Pronouns: He/Him
 
 <!---
